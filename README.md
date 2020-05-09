@@ -1,9 +1,9 @@
-# # addflybot
+# addflybot
 ## Link: github.com/dhasirar/addflybot
 ## Author: github.com/dhasirar
 ## IG: instagram.com/dhasirar/
 ### Don't copy this code without give me the credits, bitch! 
-Youbot is a Shell Script to increase views on Youtube using Tor ips.
+addflybot is a Shell Script to increase views on addfly using Tor ips.
 
 ### Usage:
 ```

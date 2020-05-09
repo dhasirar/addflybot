@@ -8,7 +8,7 @@ fi
 }
 checkroot
 if [[ -z $1 ]]; then
-printf "\e[1;92m[*] Usage: sudo ./youbot.sh url \e[0m\n"
+printf "\e[1;92m[*] Usage: bash ./addflybot.sh url \e[0m\n"
 exit 1
 fi
 

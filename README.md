@@ -10,7 +10,7 @@ addflybot is a Shell Script to increase views on addfly using Tor ips.
 git clone https://github.com/dhasirar/addflybot.git
 cd addflybot
 service tor start
-bash ./addflybot URL
+bash ./addflybot.sh URL
 ```
 
 ### Install requirements (xdotool, proxychains, tor):

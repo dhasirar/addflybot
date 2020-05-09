@@ -22,4 +22,4 @@ apt-get install -y xdotool tor proxychains
 
 ### Donate!
 Support the authors:
-paypal.me/dhasirar
+https://paypal.me/dhasirar

@@ -2,7 +2,7 @@
 ## Link: github.com/dhasirar/addflybot
 ## Author: github.com/dhasirar
 ## IG: instagram.com/dhasirar/
-### Don't copy this code without give me the credits, bitch! 
+### Don't copy this code without give me the credits,
 addflybot is a Shell Script to increase views on addfly using Tor ips.
 
 ### Usage:
